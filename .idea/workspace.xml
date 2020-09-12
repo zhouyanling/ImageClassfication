@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fc63a39-706e-49e5-b301-7384a7343f97" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hAOOHkxSegHwC0jXfHNyRUA6w2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.preprocess">
+    <configuration name="preprocess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytorch_RestNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preprocessor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocessor/preprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytorch_RestNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_0910" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytorch_RestNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_0910.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.preprocess" />
+        <item itemvalue="Python.train_0910" />
+        <item itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fc63a39-706e-49e5-b301-7384a7343f97" name="Default Changelist" comment="" />
+      <created>1599450396878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599450396878</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="108" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599531281602">
+      <screen x="0" y="0" width="4480" height="1440" />
+    </state>
+    <state x="108" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.4480.1440@0.0.4480.1440" timestamp="1599531281602" />
+    <state width="3436" height="568" key="DebuggerActiveHint" timestamp="1599796201807">
+      <screen x="0" y="0" width="4480" height="1440" />
+    </state>
+    <state width="3436" height="568" key="DebuggerActiveHint/0.0.4480.1440@0.0.4480.1440" timestamp="1599796201807" />
+    <state x="2888" y="422" width="646" height="692" key="FileChooserDialogImpl" timestamp="1599802733524">
+      <screen x="0" y="0" width="4480" height="1440" />
+    </state>
+    <state x="2888" y="422" width="646" height="692" key="FileChooserDialogImpl/0.0.4480.1440@0.0.4480.1440" timestamp="1599802733524" />
+    <state width="2529" height="396" key="GridCell.Tab.0.bottom" timestamp="1599804839950">
+      <screen x="0" y="0" width="4480" height="1440" />
+    </state>
+    <state width="2529" height="396" key="GridCell.Tab.0.bottom/0.0.4480.1440@0.0.4480.1440" timestamp="1599804839950" />
+    <state width="2529" height="396" key="GridCell.Tab.0.center" timestamp="1599804839914">
+      <screen x="0" y="0" width="4480" height="1440" />
+    </state>
+    <state width="2529" height="396" key="GridCell.Tab.0.center/0.0.4480.1440@0.0.4480.1440" timestamp="1599804839914" />
+    <state width="2529" height="396" key="GridCell.Tab.0.left" timestamp="1599804839900">
+      <screen x="0" y="0" width="4480" height="1440" />
+    </state>
+    <state width="2529" height="396" key="GridCell.Tab.0.left/0.0.4480.1440@0.0.4480.1440" timestamp="1599804839900" />
+    <state width="2529" height="396" key="GridCell.Tab.0.right" timestamp="1599804839929">
+      <screen x="0" y="0" width="4480" height="1440" />
+    </state>
+    <state width="2529" height="396" key="GridCell.Tab.0.right/0.0.4480.1440@0.0.4480.1440" timestamp="1599804839929" />
+    <state width="2529" height="396" key="GridCell.Tab.1.bottom" timestamp="1599804840042">
+      <screen x="0" y="0" width="4480" height="1440" />
+    </state>
+    <state width="2529" height="396" key="GridCell.Tab.1.bottom/0.0.4480.1440@0.0.4480.1440" timestamp="1599804840042" />
+    <state width="2529" height="396" key="GridCell.Tab.1.center" timestamp="1599804839979">
+      <screen x="0" y="0" width="4480" height="1440" />
+    </state>
+    <state width="2529" height="396" key="GridCell.Tab.1.center/0.0.4480.1440@0.0.4480.1440" timestamp="1599804839979" />
+    <state width="2529" height="396" key="GridCell.Tab.1.left" timestamp="1599804839963">
+      <screen x="0" y="0" width="4480" height="1440" />
+    </state>
+    <state width="2529" height="396" key="GridCell.Tab.1.left/0.0.4480.1440@0.0.4480.1440" timestamp="1599804839963" />
+    <state width="2529" height="396" key="GridCell.Tab.1.right" timestamp="1599804839993">
+      <screen x="0" y="0" width="4480" height="1440" />
+    </state>
+    <state width="2529" height="396" key="GridCell.Tab.1.right/0.0.4480.1440@0.0.4480.1440" timestamp="1599804839993" />
+    <state x="2433" y="195" width="1417" height="1060" key="SettingsEditor" timestamp="1599450512168">
+      <screen x="0" y="0" width="4480" height="1440" />
+    </state>
+    <state x="2433" y="195" width="1417" height="1060" key="SettingsEditor/0.0.4480.1440@0.0.4480.1440" timestamp="1599450512168" />
+    <state width="1280" height="688" key="XDebugger.FullValuePopup" timestamp="1599554734783">
+      <screen x="0" y="0" width="4480" height="1440" />
+    </state>
+    <state width="1280" height="688" key="XDebugger.FullValuePopup/0.0.4480.1440@0.0.4480.1440" timestamp="1599554734783" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
