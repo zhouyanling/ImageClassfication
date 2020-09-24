@@ -2,16 +2,26 @@
 
 import sys
 import torch
+import yaml
+
 from models import resnet
-from configure import config as cfg
+#from configure import config as cfg
 from data_processor import preprocess
 
-device = torch.device("cuda:1" if torch.cuda.is_available() else "cpu")
+#get yaml content
+yamlPath = "/users/zhouyanling/PycharmProjects/ImageClassfication/configure/lenet.yaml"
+yaml_file = open(yamlPath,'r',encoding='utf-8')
+content = yaml_file.read()
+cfg_content = yaml.load(content)
 
+device = torch.device(cfg_content['device'] if torch.cuda.is_available() else "cpu")
 
-net = resnet.resnet34(cfg.num_classes)
+###################################### manuall modify###############################
+net = resnet.resnet34(cfg_content['train']['num_classes'])
+###################################### manuall modify###############################
+
 net.to(device)
-model_weight_path = cfg.model_path + sys.argv[1]
+model_weight_path = preprocess.save_mpdel_path + sys.argv[1]
 net.load_state_dict(torch.load(model_weight_path))
 
 

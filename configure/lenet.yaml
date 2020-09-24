@@ -1,0 +1,32 @@
+device: cuda
+dataset:
+  dataset_dir: /users/zhouyanling/Datasets/imagenette2-160-c/
+  train_dir: /users/zhouyanling/Datasets/imagenette2-160-c/train/
+  test_dir: /users/zhouyanling/Datasets/imagenette2-160-c/test/
+  json_path: /users/zhouyanling/PycharmProjects/ImageClassfication/outputs/class_indices.json
+  image_size: 224
+  val_size: 256
+  n_channels: 3
+  n_classes: 10
+  val_ration: .2
+  batch_size: 64
+  num_workers: 0
+model:
+  name: lenet
+
+train:
+  optimizer: sgd
+  momentum: 0.9
+  base_lr: 1e-2
+  max_epoch: 500
+  project_path:  /users/zhouyanling/PycharmProjects/
+  class_project_path: /users/zhouyanling/PycharmProjects/ImageClassfication/
+  outputs_path: /users/zhouyanling/PycharmProjects/ImageClassfication/outputs/
+
+validation:
+
+scheduler:
+  mode: max
+  factor: 0.8
+
+tensorboard:
